@@ -1,0 +1,4 @@
+3
+Subaru Red Sedan 2004 140 250000
+Jaguar Green Sportcar 1990 220 1300000
+Nissan Red Sedan 2004 40 300000

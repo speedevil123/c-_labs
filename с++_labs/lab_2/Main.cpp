@@ -9,7 +9,7 @@ int main()
 {
 	system("chcp 1251");
 	string file;
-	cout << "Ââåäèòå íàçâàíèå ôàéëà ðåøåíèÿ: ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Ã¨Ã²Ã¥ Ã­Ã Ã§Ã¢Ã Ã­Ã¨Ã¥ Ã´Ã Ã©Ã«Ã  Ã°Ã¥Ã¸Ã¥Ã­Ã¨Ã¿: ";
 	getline(cin, file);
 	file += ".txt";
 	string path = "t.txt";

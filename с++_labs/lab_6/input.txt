@@ -1,5 +1,0 @@
-4
-Lorry Lorry	4500 Krasnoyarsk	Barabinsk	1
-Ship Ship	8700 Severo-Eniseisk	Krasnoyarsk	2
-Ship Ship	1100 Habarovsk	Rostov-Na-Donu	1
-Lorry Lorry	5000 Tombov	Krasnoyarsk	2
